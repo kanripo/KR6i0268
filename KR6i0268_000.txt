@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說法律三昧經
+#+DATE: 2015-08-30 20:14:36.244249
+#+PROPERTY: JUAN 0
