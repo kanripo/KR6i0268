@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:37.253759
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:08
 #+TITLE: 佛說法律三昧經
 #+PROPERTY: CBETA_ID T15n0631
 #+PROPERTY: ID KR6i0268
